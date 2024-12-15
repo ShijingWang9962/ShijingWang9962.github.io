@@ -15,7 +15,7 @@ Using computer vision and machine learning techniques to leverage gaze as a cue 
 - **Computer Vision:** gaze estimation, gaze following, scanpath prediction
 - **Machine Learning:** uncertainty estimation, domain generalization
 
-## News
+## Eduction
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
