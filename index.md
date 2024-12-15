@@ -17,10 +17,9 @@ Using computer vision and machine learning techniques to leverage gaze as a cue 
 
 ## Eduction
 
-- **Sep. 2023 - Now, Ph.D. student** <br> Beijing Jiaotong University, Computer Science. Supervisor: Prof. <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2023 - Now, Ph.D. student]** <br> Beijing Jiaotong University, Computer Science. Supervisor: Prof. <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
+- **[Sep. 2021 - Jun. 2023, Master student]** <br> Beijing Jiaotong University, Beijing Jiaotong University. Supervisor: Prof. <a href="http://faculty.bjtu.edu.cn/8249/">Liping Jing</a>.
+- **[Sep. 2015 - Jun. 2019, B.S.]** Beijing Jiaotong University, Beijing Jiaotong University.
 
 {% include_relative _includes/publications.md %}
 
