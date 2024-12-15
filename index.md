@@ -11,9 +11,9 @@ My research interests span a wide range of fields within machine learning and co
 I enjoy participating in academic discussions and collaborations. Currently, I am seeking opportunities for joint Ph.D. supervision through the State-Sponsored Scholarship Program from the China Scholarship Council, which I believe will broaden my international perspective and further enhance my ability to apply gaze-based techniques to human-computer interaction challenges.
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Using computer vision and machine learning to address human-computer interaction problems
+- **Computer Vision:** gaze estimation, gaze following, scanpath prediction
+- **Machine Learning:** uncertainty estimation, domain generalization
 
 ## News
 
