@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year Ph.D. student in Computer Science at Beijing Jiaotong University (BJTU), China, under the supervision of Prof. Yaping Huang.
+
+My research interests span a wide range of fields within machine learning and computer vision, with a focus on areas related to human gaze, including gaze estimation, gaze following, and scanpath prediction. I am dedicated to leveraging gaze as a cue to address real-world human-computer interaction problems.
+
+I enjoy participating in academic discussions and collaborations. Currently, I am seeking opportunities for joint Ph.D. supervision through the State-Sponsored Scholarship Program, which I believe will expand my international perspective and further enhance my ability to apply gaze-based techniques to human-computer interaction challenges.
 
 ## Research Interests
 
