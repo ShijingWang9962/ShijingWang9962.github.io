@@ -17,8 +17,8 @@ Using computer vision and machine learning techniques to leverage gaze as a cue 
 
 ## Eduction
 
-- **[Sep. 2023 - Now, Ph.D. student]** <br> Beijing Jiaotong University, Computer Science. Supervisor: Prof. <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
-- **[Sep. 2021 - Jun. 2023, Master student]** <br> Beijing Jiaotong University, Beijing Jiaotong University. Supervisor: Prof. <a href="http://faculty.bjtu.edu.cn/8249/">Liping Jing</a>.
+- **[Sep. 2023 - Now, Ph.D. student]** <br> Beijing Jiaotong University, Computer Science. Supervisor: <a href="https://faculty.bjtu.edu.cn/6124/">Prof. Yaping Huang</a>.
+- **[Sep. 2021 - Jun. 2023, Master student]** <br> Beijing Jiaotong University, Beijing Jiaotong University. Supervisor: <a href="http://faculty.bjtu.edu.cn/8249/">Prof. Liping Jing</a>.
 - **[Sep. 2015 - Jun. 2019, B.S.]** <br> Beijing Jiaotong University, Beijing Jiaotong University.
 
 {% include_relative _includes/publications.md %}
