@@ -7,7 +7,7 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     poster: ./assets/img/shijing_4273_poster_01.png
     bibtex: ./assets/files/SUGE_AAAI2024.md
-    note: CCF-A
+    notes: CCF-A
     image: ./assets/img/SUGE_AAAI2024.png
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
@@ -16,7 +16,7 @@ main:
     conference: arXiv preprint arXiv:2409.04766
     pdf: https://arxiv.org/pdf/2409.04766
     bibtex: ./assets/files/EIF.md
-    note: Under review
+    notes: Under review
     image: ./assets/img/EIF_2025.png
 
   - title: Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning
@@ -26,7 +26,7 @@ main:
     pdf: https://doi.org/10.1007/978-3-031-43415-0_27
     code: https://github.com/ShijingWang9962/vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
     bibtex: ./assets/files/PKDD_2023.md
-    note: CCF-B
+    notes: CCF-B
     image: ./assets/img/SUGE_AAAI2024.png
 
   - title: 序列标签推荐 (Sequencial Tag Recommendation)
@@ -35,5 +35,5 @@ main:
     conference: 计算机科学 (Computer Science).
     pdf: https://arxiv.org/pdf/2310.05423
     bibtex: ./assets/files/ComputerScience_2024.md
-    note: Chinese CCF-B Accepted but not yet published
+    notes: Chinese CCF-B Accepted but not yet published
     image: ./assets/img/ComputerScience_2024.png
