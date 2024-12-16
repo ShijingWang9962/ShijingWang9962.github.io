@@ -1,5 +1,4 @@
 main:
-
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang* (*Corresponding author)
     conference_short: AAAI 2024
@@ -12,14 +11,14 @@ main:
     image: ./assets/img/SUGE_AAAI2024.png
 
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
-    authors: <strong>Shijing Wang</strong>,  Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
+    authors: <strong>Shijing Wang</strong>, Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     conference_short: Under review
     conference: arXiv preprint arXiv:2409.04766
     pdf: https://arxiv.org/pdf/2409.04766
     bibtex: ./assets/files/EIF.md
     note: Under review
     image: ./assets/img/EIF_2025.png
-    
+
   - title: Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning
     authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing, Tieyong Zeng, Jian Yu
     conference_short: ECML-PKDD 2023
@@ -30,7 +29,7 @@ main:
     note: CCF-B
     image: ./assets/img/SUGE_AAAI2024.png
 
-    - title: 序列标签推荐 (Sequencial Tag Recommendation)
+  - title: 序列标签推荐 (Sequencial Tag Recommendation)
     authors: Bing Liu, Pengyu Xu, <strong>Shijing Wang</strong>, Sijin Lu, Hongjian Sun, Liping Jing
     conference_short: 计算机科学
     conference: 计算机科学 (Computer Science).
@@ -38,5 +37,3 @@ main:
     bibtex: ./assets/files/ComputerScience_2024.md
     note: Chinese CCF-B Accepted but not yet published
     image: ./assets/img/ComputerScience_2024.png
-
-    
