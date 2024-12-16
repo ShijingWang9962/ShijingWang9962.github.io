@@ -40,6 +40,16 @@ co_author:
     image: ./assets/img/ComputerScience_2024.png
     
 colleagues_paper: 
+
+  - title: Uncertainty Inspired Autism SpectrumDisorder Screening
+    authors: Ying Zhang, Yaping Huang*, Jiansong Qi, Sihui Zhang, Mei Tian,and Yi Tian
+    conference_short: MICCAI 2023
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-43904-9_39
+    bibtex: ./assets/files/MICCAI_2023.md
+    notes: CCF-B
+    image: ./assets/img/MICCAI_2023.png
+
   - title: Visual Question Answering Driven Eye Tracking Paradigm for Identifying Children with Autism Spectrum Disorder
     authors: Jiansong Qi, Yaping Huang*, Ying Zhang, Sihui Zhang, Mei Tian, Yi Tian, Fanchao Meng, Lin Guan, and Tianyi Chang
     conference_short: ACM MM 2024
@@ -48,12 +58,3 @@ colleagues_paper:
     bibtex: ./assets/files/ACMMM_2024.md
     notes: CCF-A
     image: ./assets/img/ACMMM_2024.png
-
-  - title: 序列标签推荐 (Sequencial Tag Recommendation)
-    authors: Bing Liu, Pengyu Xu, <strong>Shijing Wang</strong>, Sijin Lu, Hongjian Sun, Liping Jing
-    conference_short: 计算机科学
-    conference: 计算机科学 (Computer Science).
-    pdf: https://arxiv.org/pdf/2310.05423
-    bibtex: ./assets/files/ComputerScience_2024.md
-    notes: Chinese CCF-B Accepted but not yet published
-    image: ./assets/img/ComputerScience_2024.png
