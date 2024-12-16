@@ -1,22 +1,18 @@
 main:
 
   - title: Suppressing Uncertainty in Gaze Estimation
-    authors: <strong>Shijing Wang</strong>, Yaping Huang* (*Corresponding authors)
+    authors: <strong>Shijing Wang</strong>, Yaping Huang
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28368/28720
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
+    poster: ./assets/img/shijing_4273_poster_01.png
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/SUGE_AAAI2024.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion"
+    authors: <strong>Shijing Wangu</strong>,  Y Huang, Jun Xie, YiTian, Feng Chen, Zhepeng Wang
+    conference_short: Under review
+    pdf: https://arxiv.org/pdf/2409.04766
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Br9D7FUpMB8J:scholar.google.com/&output=citation&scisdr=ClHYqyjrEMy2m-fJ7jY:AFWwaeYAAAAAZ1_P9jZjBa3vSM5ZIwUuD_y9JGc&scisig=AFWwaeYAAAAAZ1_P9uVAd7b2CqcYHSbJG5F0xVI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/EIF2025.png
