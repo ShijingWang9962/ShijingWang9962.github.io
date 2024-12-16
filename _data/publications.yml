@@ -38,3 +38,23 @@ co_author:
     bibtex: ./assets/files/ComputerScience_2024.md
     notes: Chinese CCF-B Accepted but not yet published
     image: ./assets/img/ComputerScience_2024.png
+    
+co_author: 
+  - title: "Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning"
+    authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing, Tieyong Zeng, Jian Yu
+    conference_short: ECML-PKDD 2023
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2023.
+    pdf: https://doi.org/10.1007/978-3-031-43415-0_27
+    code: https://github.com/ShijingWang9962/vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
+    bibtex: ./assets/files/PKDD_2023.md
+    notes: CCF-B
+    image: ./assets/img/PKDD_2023.png
+
+  - title: 序列标签推荐 (Sequencial Tag Recommendation)
+    authors: Bing Liu, Pengyu Xu, <strong>Shijing Wang</strong>, Sijin Lu, Hongjian Sun, Liping Jing
+    conference_short: 计算机科学
+    conference: 计算机科学 (Computer Science).
+    pdf: https://arxiv.org/pdf/2310.05423
+    bibtex: ./assets/files/ComputerScience_2024.md
+    notes: Chinese CCF-B Accepted but not yet published
+    image: ./assets/img/ComputerScience_2024.png
