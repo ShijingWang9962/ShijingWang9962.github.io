@@ -7,7 +7,7 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28368/28720
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     poster: ./assets/img/shijing_4273_poster_01.png
-    bibtex: ./assets/files/SUGE_AAAI2024.bib
+    bibtex: ./assets/files/SUGE_AAAI2024.md
     image: ./assets/img/SUGE_AAAI2024.png
 
   - title: "Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion"
@@ -15,5 +15,5 @@ main:
     conference_short: Under review
     conference: arXiv preprint arXiv:2409.04766
     pdf: https://arxiv.org/pdf/2409.04766
-    bibtex: ./assets/files/EIF.bib
+    bibtex: ./assets/files/EIF.md
     image: ./assets/img/EIF_2025.png
