@@ -20,7 +20,7 @@ main:
     image: ./assets/img/EIF_2025.png
 
 co_author: 
-  - title: Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning
+  - title: "Vmf loss: Exploring a scattered intra-class hypersphere for few-shot learning"
     authors: Xin Liu, <strong>Shijing Wang</strong>, Kairui Zhou, Yilin Lyu, Mingyang Song, Liping Jing, Tieyong Zeng, Jian Yu
     conference_short: ECML-PKDD 2023
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2023.
