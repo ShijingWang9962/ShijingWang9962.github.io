@@ -2,7 +2,7 @@ main:
 
   - title: Suppressing Uncertainty in Gaze Estimation
     authors: <strong>Shijing Wang</strong>, Yaping Huang* (*Corresponding author)
-    conference_short: AAAI
+    conference_short: AAAI 2024
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28368/28720
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
