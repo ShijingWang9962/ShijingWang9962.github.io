@@ -23,4 +23,6 @@ Using computer vision and machine learning techniques to leverage gaze as a cue 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Project
+
+- Research on Gaze Estimation Generalization. Fundamental Research Funds for Central Universities, PI, 04/2024-03/2026.
