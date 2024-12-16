@@ -5,6 +5,9 @@ main:
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28368/28720
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    poster: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/teaser_example_2.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
