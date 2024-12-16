@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px 15px;">Publications</h2>
 
-<strong>The following papers are the works related to gaze estimation that I have completed as the first author during my Ph.D. studies.</strong>,
+The following papers are the works related to gaze estimation that <strong>I have completed as the first author during my Ph.D. studies.</strong>,
 
 <div class="publications">
 <ol class="bibliography">
@@ -52,7 +52,7 @@
 </ol>
 </div>
 
-<strong>The following papers are works related to other applications of machine learning that I co-authored with my colleagues during my Master's studies.</strong>
+The following papers are works related to other applications of machine learning that <strong>I co-authored with my colleagues during my Master's studies.</strong>
 
 <div class="publications">
 <ol class="bibliography">
@@ -104,7 +104,7 @@
 </ol>
 </div>
 
-<strong>The following papers were completed by my colleagues before I joined the PhD team. They collected scanpath data of children with autism spectrum disorder (ASD) using an eye tracker from our lab. I plan to use the data they collected and continue their work by conducting further scanpath research, which is why I have included these papers here. Additionally, I will further explore how to better incorporate the eye tracker available in our lab into my future work.</strong>
+The following papers were completed by my colleagues before I joined the PhD team. They collected <strong>scanpath data of children with autism spectrum disorder (ASD) using an eye tracker from our lab</strong>. I plan to use the data they collected and continue their work by conducting further scanpath research, which is why I have included these papers here. Additionally, I will further explore how to better incorporate the eye tracker available in our lab into my future work.
 
 <div class="publications">
 <ol class="bibliography">
