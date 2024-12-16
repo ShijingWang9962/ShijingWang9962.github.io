@@ -12,8 +12,8 @@ I enjoy participating in academic discussions and collaborations. Currently, I a
 
 ## Research Interests
 Using computer vision and machine learning techniques to leverage gaze as a cue in addressing human-computer interaction problems.
-- **Computer Vision:** gaze estimation, gaze following, scanpath prediction
-- **Machine Learning:** uncertainty estimation, domain generalization
+- **Computer Vision:** gaze estimation, gaze following, scanpath prediction.
+- **Machine Learning:** uncertainty estimation, domain generalization.
 
 ## Eduction
 
