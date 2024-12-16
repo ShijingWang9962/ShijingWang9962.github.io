@@ -28,7 +28,7 @@ co_author:
     code: https://github.com/ShijingWang9962/vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
     bibtex: ./assets/files/PKDD_2023.md
     notes: CCF-B
-    image: ./assets/img/SUGE_AAAI2024.png
+    image: ./assets/img/PKDD_2023.png
 
   - title: 序列标签推荐 (Sequencial Tag Recommendation)
     authors: Bing Liu, Pengyu Xu, <strong>Shijing Wang</strong>, Sijin Lu, Hongjian Sun, Liping Jing
