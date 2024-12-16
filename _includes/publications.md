@@ -109,7 +109,7 @@ The following papers were completed by my colleagues before I joined the PhD tea
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.co_author %}
+{% for link in site.data.publications.colleagues_paper %}
 
 <li>
 <div class="pub-row">
