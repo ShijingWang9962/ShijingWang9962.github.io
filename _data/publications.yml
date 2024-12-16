@@ -24,5 +24,5 @@ main:
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2023.
     pdf: https://doi.org/10.1007/978-3-031-43415-0_27
     code: https://github.com/ShijingWang9962/vMF-Loss-Exploring-a-Scatter-Intra-class-Hypersphere-for-Few-shot-Learning
-    bibtex: ./assets/files/SUGE_AAAI2024.md
+    bibtex: ./assets/files/PKDD_2023.md
     image: ./assets/img/SUGE_AAAI2024.png
