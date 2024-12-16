@@ -7,12 +7,12 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28368/28720
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     poster: ./assets/img/shijing_4273_poster_01.png
-    bibtex: ./assets/bib/SUGE_AAAI2024.bib
+    bibtex: ./assets/files/SUGE_AAAI2024.bib
     image: ./assets/img/SUGE_AAAI2024.png
 
   - title: "Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion"
     authors: <strong>Shijing Wang</strong>,  Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     conference_short: Under review
     pdf: https://arxiv.org/pdf/2409.04766
-    bibtex: ./assets/bib/EIF.bib
+    bibtex: ./assets/files/EIF.bib
     image: ./assets/img/EIF_2025.png
