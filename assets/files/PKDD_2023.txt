@@ -1,0 +1,9 @@
+@inproceedings{liu2023vmf,
+  author    = {Xin Liu and Shijing Wang and Kairui Zhou and Yilin Lyu and Mingyang Song and Liping Jing and Tieyong Zeng and Jian Yu},
+  title     = {VMF Loss: Exploring a Scattered Intra-class Hypersphere for Few-shot Learning},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases: Research Track: European Conference, ECML PKDD 2023},
+  year      = {2023},
+  pages     = {454--470},
+  publisher = {Springer-Verlag},
+  address   = {Berlin, Heidelberg}
+}
