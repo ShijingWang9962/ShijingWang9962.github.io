@@ -104,7 +104,7 @@ The following papers are works related to other applications of machine learning
 </ol>
 </div>
 
-The following papers were completed by my colleagues before I joined the PhD team. They collected <strong>scanpath data of children with autism spectrum disorder (ASD) using an eye tracker from our lab</strong>. I plan to use the data they collected and continue their work by conducting further scanpath research, which is why I have included these papers here. Additionally, I will further explore how to <strong>better incorporate the eye tracker available in our lab</strong> into my future work.
+The following papers were completed by my colleagues before I joined the PhD team. They collected <strong>scanpath data of children with autism spectrum disorder (ASD) using an eye tracker from our lab</strong>. I plan to use the data they collected and continue their work by conducting further scanpath research, which is why I have included these papers here. Additionally, I will further explore how to <strong>better incorporate the eye tracker tobii pro spectrum 1200 available in our lab</strong> into my future work.
 
 <div class="publications">
 <ol class="bibliography">
