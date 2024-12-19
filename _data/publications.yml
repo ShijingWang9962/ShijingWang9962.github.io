@@ -13,7 +13,7 @@ main:
   - title: Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion
     authors: <strong>Shijing Wang</strong>, Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     conference_short: Under review
-    conference: "arXiv preprint arXiv:2409.04766"
+    conference: "arXiv preprint arXiv:2409.04766v2"
     pdf: https://arxiv.org/pdf/2409.04766v2
     bibtex: ./assets/files/EIF.md
     notes: Under review
