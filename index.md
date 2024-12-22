@@ -30,5 +30,5 @@ Using computer vision and machine learning techniques to leverage gaze as a cue 
 ## Honors and Awards
 
 - First-Class Scholarship of Beijing Jiaotong University, 2020, 2021, 2022, 2023, 2024.
-- 1st Place Winner of the 2024 <a href="https://ego4d-data.org/docs/challenge/" target="_blank">Ego4D-Ego-Exo4D Challenge in the 'Looking at Me' Track</a> at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. (<a href="https://github.com/KanokphanL/Ego4D_LAM_InternLSTM" target="_blank">code</a>,<a herf="https://arxiv.org/pdf/2406.12211", target="_blank">paper</a>)
+- 1st Place Winner of the 2024 <a href="https://ego4d-data.org/docs/challenge/" target="_blank">Ego4D-Ego-Exo4D Challenge in the 'Looking at Me' Track</a> at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024. (<a href="https://github.com/KanokphanL/Ego4D_LAM_InternLSTM" target="_blank">code</a>,<a href="https://arxiv.org/pdf/2406.12211", target="_blank">paper</a>)
 - Outstanding Undergraduate Thesis of Beijing Jiaotong University, 2021.
