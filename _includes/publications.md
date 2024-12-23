@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px 15px;">Publications</h2>
 
-The following papers are the works related to gaze estimation that <strong>I have completed as the first author during my Ph.D. studies.</strong>,
+The following papers are the works related to gaze estimation that <strong>I have completed as the first author during my Ph.D. studies.</strong>
 
 <div class="publications">
 <ol class="bibliography">
