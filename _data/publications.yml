@@ -14,7 +14,7 @@ main:
     authors: <strong>Shijing Wang</strong>, Yaping Huang*, Jun Xie, Yi Tian, Feng Chen, Zhepeng Wang
     conference_short: Under review
     conference: "arXiv preprint arXiv:2409.04766v2"
-    pdf: https://arxiv.org/pdf/2409.04766v2
+    pdf: https://arxiv.org/pdf/2409.04766v3
     bibtex: ./assets/files/EIF.md
     notes: Under review
     image: ./assets/img/EIF_2025.png
